@@ -32,3 +32,4 @@ export function getHyperFrame(frame: string, text: string, button: number) {
   
     return frames[nextFrameId].frame;
   }
+
