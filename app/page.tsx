@@ -14,10 +14,9 @@ const frameMetadata = getFrameMetadata({
       label: 'Cave',
     },
     {
-      action: 'tx',
-      label: 'Send Base Sepolia',
-      target: `${NEXT_PUBLIC_URL}/api/tx`,
-      postUrl: `${NEXT_PUBLIC_URL}/api/tx-success`,
+      action: 'link',
+      label: 'TODO',
+      target: `https://www.google.com`,
     },
   ],
   image: {
